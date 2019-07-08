@@ -4,19 +4,20 @@ There are *many* things to do.
 
 Rules of chess:
 
-## How the game works
+## 1. How the game works
 
-White moves first.
-Black and white take turns.
-You can only move *once* in a turn.
-You may **not** capture your own piece.
-A piece may **not** leave the chessboard unless it is taken ***or*** the pawn is turning in to another piece.
-When you are *checked*, that means that there is a piece **attacking** your king.
-If in check, you cannot move your king, block the piece attacking the king, or take the attacking piece, that means you are in ***checkmate***. Checkmate means that **you lost**.
+1. White moves first.
+2. Black and white take turns.
+3. You can only move *once* in a turn.
+4. You may **not** capture your own piece.
+5. A piece may **not** leave the chessboard unless it is taken ***or*** the pawn is turning in to another piece.
+(Do the next ones after how to move the pieces) When you are *checked*, that means that there is a piece **attacking** your king.
+If in check, you cannot move your king, block the piece attacking the king, or take the attacking piece, that means you are in ***checkmate***.
+Checkmate means that **you lost**.
 **You may not stay in check** for the game- you must get out of it.
 Checkmate is the *only* way to win.
 
-## How to move the pieces
+## 2. How to move the pieces
 
 #### A pawn
 A pawn may **only** go one space forward, **unless** a piece is in it's way.
@@ -42,13 +43,13 @@ The knight can move like so: one space vertically or horizontally, then two spac
 #### The king
 The king *can move* **one space in any direction**, *as long as it does not enter check.*
 
-## Other Rules
+## 3. Other Rules
 
 There must be 32 or less chess pieces on the chessboard.
 *Stalemate* is when you or your opponent cannot make any moves that are allowed (legal Moves.)
 A piece may not move if it were to move, the king would be in check.
 
-## Special Moves
+## 4. Special Moves
 
 #### Castling
 *Castling* is when the rook switches with the king when there is **no pieces between the king and the rook**, mainly to protect the king.
