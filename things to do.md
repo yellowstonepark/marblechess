@@ -46,6 +46,7 @@ The king can move one space in any direction, as long as it does not enter check
 
 There must be 32 or less chess pieces on the chessboard.
 Stalemate is when you or your opponent cannot make any moves that are allowed (legal Moves.)
+A piece may not move if it were to move, the king would be in check.
 
 ## Special Moves
 
