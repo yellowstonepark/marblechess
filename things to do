@@ -1,0 +1,30 @@
+-black and white take turns
+-you can only move once in a turn
+-white cannot capture it's own piece and vice versa
+-a pawn may only go one space forward, unless a piece is in it's way
+-a pawn may only attack one space diagonally, but cannot go diagonal if it is not attacking
+-a pawn may go two spaces if it is on the starting row
+-when a pawn reaches the end of the Chessboard, it turns in to a queen and then it is the next players turn
+-a rook may only move horizontally and vertically
+-a bishop may only move diagonally
+-the king can move one space in any direction
+-the queen can move horizontally and vertically and diagonal any amount of spaces
+-the knight is the only piece that can jump over pieces
+-the knight can move like so: one space vertically or horizontally, then two spaces vertically or horizontally and vice versa (like an L)
+-a piece may not go off the Chessboard
+-when the king can be taken by the other side in one move, it is called check
+-if the king can be taken by the other side, and nothing can be done to stop the other side, then it is called checkmate
+-a check can be blocked by another piece, the king can move to get out of chess, or the piece that is checking can be taken to prevent checkmate
+-a king can castle when one of the rooks have not been moved and the king have not been moved
+-castling is when the rook switches with the king when there is no piece between the king and the rook
+-any of the two rooks may be used to castle
+-to castle, move the king two space towards the rook, then move the rook to the other side of the king
+-there may be 32 or less chess pieces on the chessboard
+-white moves first
+-the king may not move in to check
+-a castle can be done when the king is not in check, not moving through check, and not moving in to check
+-a move, called en passant is when a pawn is right next to your pawn, you can move forward one and capture the other side's pawn
+-en passant is only allowed when the opponent moves 2 spaces on their first move and where the pawn goes is next to your pawn
+-stalemate is when you or your opponent cannot make any moves that are allowed
+-a pawn may promote to any piece it would like to
+-you may only win by checkmate- that means the game is over
