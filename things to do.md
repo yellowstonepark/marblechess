@@ -51,13 +51,13 @@ A piece may not move if it were to move, the king would be in check.
 
 ## 4. Special Moves
 
-#### Castling
+#### 1. Castling
 *Castling* is when the rook switches with the king when there is **no pieces between the king and the rook**, mainly to protect the king.
 A king can castle when **one of the rooks have not been moved** and **the king have not been moved**.
 **Any of the two rooks may be used to castle**, as long as they have not been moved.
 To castle, move the king two space towards the rook, then move the rook to the other side of the king.
 A castle can be done when the **king is not in check**, **not moving through check**, and **not moving in to check**.
 
-#### En passant
+#### 2. En passant
 A move, called *en passant* is when a pawn is right next to your pawn, you can move forward one and capture the other side's pawn
 En passant is *only* allowed when the opponent moves 2 spaces on their first time moving a pawn and their is next to your pawn.
