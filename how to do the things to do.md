@@ -2,10 +2,12 @@
 
 ##### White moves first
 
-1. Tell the computer that there are two types of pieces- white and black
+1. Detect when a piece is moved
 
-2. Tell the computer which pieces are white and which ones are black
+2. Know if it is the first move
 
-3. Tell the computer to prevent the black pieces from moving
+3. If black moves, block the moves
 
-4. Once the white moves tell the computer to not have a restriction on black anymore
+4. Let white move
+
+5. Tell the computer that it is now blacks turn
