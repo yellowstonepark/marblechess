@@ -8,6 +8,6 @@
 
 3. If black moves, block the moves
 
-4. Let white move
+4. Let white move once
 
 5. Tell the computer that it is now blacks turn
