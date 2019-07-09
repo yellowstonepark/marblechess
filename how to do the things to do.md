@@ -2,7 +2,7 @@
 
 ##### White moves first
 
-1. Create the names white and black
+1. Tell the computer that there are two types of pieces- white and black
 
 2. Tell the computer which pieces are white and which ones are black
 
