@@ -12,9 +12,20 @@
   </head>
   <body>
     <h1>The Game of Chess</h1>
-    <div id="board1" style="width: 400px"></div>
-    <script>
-      var board = Chessboard('board1')
+    <div id="board1" style="width: 550
+    px"></div>
+    <button id="startBtn">Start Position</button>
+    <button id="clearBtn">Clear Board</button>
+    <h4>Click start to start playing a game of chess</h4>
+    <script type="text/javascript">
+      var board1 = Chessboard('board1', {
+        draggable: true,
+        dropOffBoard: 'trash',
+        sparePieces: true
+      });
+
+      $('#startBtn').on('click', board1.start);
+      $('#clearBtn').on('click', board1.clear);
     </script>
   </body>
 </html>
